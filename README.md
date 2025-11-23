@@ -92,3 +92,5 @@ UwU~! This script will:
 - Kyaa~! If scripts don't find expected data, the page structures may have changed and selectors may need updating nya~! ✨
 - UwU~! For more comprehensive results, consider using the official Twitch API or StreamElements API desu! >w<
 - Kyaa~! The script can be interrupted (Ctrl+C) and will save partial results (so helpful nya~!)
+
+Reading all this shit gave me cancer. Thanks for making it... Whatever the fuck this is, clankers.
