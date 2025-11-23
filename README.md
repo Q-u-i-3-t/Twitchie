@@ -94,3 +94,6 @@ UwU~! This script will:
 - Kyaa~! The script can be interrupted (Ctrl+C) and will save partial results (so helpful nya~!)
 
 Reading all this shit gave me cancer. Thanks for making it... Whatever the fuck this is, clankers.
+
+I'm not responsible for what you idiots do with this shit. It is (poorly) based off of a video John Hammond posted to YouTube (https://youtu.be/8G45lYCZzZ8). Blame him.
+
